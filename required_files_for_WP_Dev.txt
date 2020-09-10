@@ -1,4 +1,4 @@
 The files that every WordPress theme must have — at the minimum — 
-are style. css and index. php . 
+are style.css and index.php . 
 This is the technical minimum required for the theme to function, 
 but no serious WordPress theme stays with only these two files.
